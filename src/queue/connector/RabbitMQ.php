@@ -1,10 +1,10 @@
 <?php
 /**
- * @author jayazhao
+ * @author coolpenguins
  * @license http://www.apache.org/licenses/LICENSE-2.0
  */
 
-namespace jayazhao\queue\connector;
+namespace coolpenguins\queue\connector;
 
 use Enqueue\AmqpLib\AmqpConnectionFactory;
 use Enqueue\AmqpLib\AmqpContext;

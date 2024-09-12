@@ -1,10 +1,10 @@
 <?php
 /**
- * @author jayazhao
+ * @author coolpenguins
  * @license http://www.apache.org/licenses/LICENSE-2.0
  */
 
-namespace jayazhao\queue\job;
+namespace coolpenguins\queue\job;
 
 use think\helper\Str;
 use think\queue\Job;
