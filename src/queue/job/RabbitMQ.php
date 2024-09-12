@@ -8,7 +8,7 @@ namespace coolpenguins\queue\job;
 
 use think\helper\Str;
 use think\queue\Job;
-use jayazhao\queue\connector\RabbitMQ as RabbitMQQueue;
+use coolpenguins\queue\connector\RabbitMQ as RabbitMQQueue;
 use Interop\Amqp\AmqpConsumer;
 use Interop\Amqp\AmqpMessage;
 use Exception;

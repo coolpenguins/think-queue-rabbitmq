@@ -17,7 +17,7 @@ use Interop\Amqp\Impl\AmqpBind;
 use think\facade\Log;
 use think\helper\Str;
 use think\queue\Connector;
-use jayazhao\queue\job\RabbitMQ as RabbitMQJob;
+use coolpenguins\queue\job\RabbitMQ as RabbitMQJob;
 
 class RabbitMQ extends Connector
 {
